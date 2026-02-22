@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GOOD</title>
+  <style>
+    body {
+      background-color: black;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="img8721.png" alt="signal">
+
+  <!-- -... .- ... . -.... ....- -->
+
+</body>
+</html>
