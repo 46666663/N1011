@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>31U DQ 616 288</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-size: 2rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  Ever been in paris?
+</body>
+</html>
